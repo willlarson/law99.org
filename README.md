@@ -37,5 +37,5 @@ Follow these steps to get NIP-05 verification on nostr with GitHub Pages
 - Congratulations, you are now part of the #nostr verified elite!
 
 # Sources
-https://twitter.com/0xsommerfeld/status/1604795583755161602
+https://twitter.com/0xsommerfeld/status/1604795583755161602  
 https://github.com/vforvalerio87/registry.dude.rund
