@@ -20,7 +20,6 @@ Follow these steps to get NIP-05 verification on nostr with GitHub Pages
 
 # Edit nostr.json
 - Back at the GitHub repo page, go into the .well-known folder, and edit the `nostr.json`-file. This can be done on the github website through the edit button.
-![edit](../../images/posts/nip05-github/editbutton.png)
 - change the values with the name you want to use, and the pubkey you want to associate with it. This example is with multiple accounts, but if you only need one you can just remove the extra line and the ",".
 ```json
 {
