@@ -14,7 +14,7 @@ Follow these steps to get NIP-05 verification on nostr with GitHub Pages
   - Select branch ("main") and root folder (/root)
   - Save
   - Reload page, and press the "Visit site"-button
-  - You will gett a 404-page
+  - You will gett this README-file
   - In the address-field, add ".well-known/nostr.json" to the end and press enter.
   - This should show a basic json-file.
 
